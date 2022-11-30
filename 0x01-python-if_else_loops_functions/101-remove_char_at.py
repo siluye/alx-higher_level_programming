@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 # Author - Seife Shiferaw
 
 def remove_char_at(str, n):
